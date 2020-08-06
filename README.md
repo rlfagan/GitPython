@@ -184,11 +184,15 @@ gpg --edit-key 88710E60
 
 New BSD License.  See the LICENSE file.
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FGitPython.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FGitPython?ref=badge_large)
+
 ### DEVELOPMENT STATUS
 
 ![Python package](https://github.com/gitpython-developers/GitPython/workflows/Python%20package/badge.svg)
 [![Documentation Status](https://readthedocs.org/projects/gitpython/badge/?version=stable)](https://readthedocs.org/projects/gitpython/?badge=stable)
 [![Packaging status](https://repology.org/badge/tiny-repos/python:gitpython.svg)](https://repology.org/metapackage/python:gitpython/versions)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FGitPython.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FGitPython?ref=badge_shield)
 
 This project is in **maintenance mode**, which means that
 
